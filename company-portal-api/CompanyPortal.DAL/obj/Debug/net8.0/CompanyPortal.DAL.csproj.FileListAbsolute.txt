@@ -1,0 +1,14 @@
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\bin\Debug\net8.0\CompanyPortal.DAL.deps.json
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\bin\Debug\net8.0\CompanyPortal.DAL.runtimeconfig.json
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\bin\Debug\net8.0\CompanyPortal.DAL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\bin\Debug\net8.0\CompanyPortal.DAL.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.csproj.AssemblyReference.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.AssemblyInfoInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.AssemblyInfo.cs
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\refint\CompanyPortal.DAL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\CompanyPortal.DAL.genruntimeconfig.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DAL\obj\Debug\net8.0\ref\CompanyPortal.DAL.dll

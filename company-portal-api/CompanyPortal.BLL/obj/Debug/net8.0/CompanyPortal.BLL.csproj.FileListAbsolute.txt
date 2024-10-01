@@ -1,0 +1,17 @@
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.BLL.deps.json
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.BLL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.BLL.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.DAL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.DTO.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.DAL.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\bin\Debug\net8.0\CompanyPortal.DTO.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.csproj.AssemblyReference.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.AssemblyInfoInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.AssemblyInfo.cs
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyP.C3CBD50F.Up2Date
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\refint\CompanyPortal.BLL.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\CompanyPortal.BLL.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.BLL\obj\Debug\net8.0\ref\CompanyPortal.BLL.dll

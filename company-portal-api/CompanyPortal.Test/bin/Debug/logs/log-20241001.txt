@@ -1,0 +1,77 @@
+00:57 [Warning] LAPTOP-LHB6GJU4 (16) Failed to determine the https port for redirect.
+00:57 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/User/getusers" responded 404 in 170.2703 ms
+00:57 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v2/User/getusers" responded 404 in 1.0645 ms
+01:03 [Warning] LAPTOP-LHB6GJU4 (18) Failed to determine the https port for redirect.
+01:03 [Information] LAPTOP-LHB6GJU4 (18) HTTP "GET" "/api/v1/user" responded 401 in 320.5267 ms
+01:07 [Warning] LAPTOP-LHB6GJU4 (9) Failed to determine the https port for redirect.
+01:07 [Information] LAPTOP-LHB6GJU4 (9) HTTP "GET" "/api/v1/user" responded 401 in 122.5994 ms
+01:08 [Warning] LAPTOP-LHB6GJU4 (15) Failed to determine the https port for redirect.
+01:08 [Information] LAPTOP-LHB6GJU4 (15) HTTP "GET" "/api/v1/user" responded 401 in 146.6126 ms
+01:12 [Warning] LAPTOP-LHB6GJU4 (7) Failed to determine the https port for redirect.
+01:12 [Information] LAPTOP-LHB6GJU4 (7) HTTP "GET" "/api/v1/user" responded 401 in 199.0502 ms
+01:12 [Information] LAPTOP-LHB6GJU4 (15) HTTP "GET" "/api/v1/user" responded 401 in 2.8884 ms
+01:13 [Warning] LAPTOP-LHB6GJU4 (18) Failed to determine the https port for redirect.
+01:13 [Information] LAPTOP-LHB6GJU4 (18) HTTP "GET" "/api/v1/user" responded 401 in 171.7632 ms
+01:13 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/user" responded 401 in 5.6648 ms
+01:19 [Warning] LAPTOP-LHB6GJU4 (19) Failed to determine the https port for redirect.
+01:19 [Information] LAPTOP-LHB6GJU4 (10) HTTP "POST" "/api/v1/auth/login" responded 200 in 994.6921 ms
+01:19 [Information] LAPTOP-LHB6GJU4 (10) List of 1 users has been returned
+01:19 [Information] LAPTOP-LHB6GJU4 (10) HTTP "GET" "/api/v1/user" responded 200 in 158.0699 ms
+01:28 [Warning] LAPTOP-LHB6GJU4 (10) Failed to determine the https port for redirect.
+01:28 [Information] LAPTOP-LHB6GJU4 (10) HTTP "POST" "/api/v1/auth/login" responded 200 in 584.9172 ms
+01:28 [Information] LAPTOP-LHB6GJU4 (10) Fetching all companies
+01:28 [Information] LAPTOP-LHB6GJU4 (10) Returned 20 companies
+01:28 [Information] LAPTOP-LHB6GJU4 (10) HTTP "GET" "/api/v1/company" responded 200 in 171.2389 ms
+01:31 [Warning] LAPTOP-LHB6GJU4 (9) Failed to determine the https port for redirect.
+01:31 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/auth/login" responded 200 in 359.6462 ms
+01:31 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/company" responded 400 in 50.5560 ms
+01:31 [Warning] LAPTOP-LHB6GJU4 (14) Failed to determine the https port for redirect.
+01:31 [Warning] LAPTOP-LHB6GJU4 (9) Failed to determine the https port for redirect.
+01:31 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/auth/login" responded 200 in 446.6592 ms
+01:31 [Information] LAPTOP-LHB6GJU4 (17) HTTP "POST" "/api/v1/auth/login" responded 200 in 446.6531 ms
+01:31 [Information] LAPTOP-LHB6GJU4 (16) Fetching all companies
+01:31 [Information] LAPTOP-LHB6GJU4 (17) List of 1 users has been returned
+01:31 [Information] LAPTOP-LHB6GJU4 (16) Returned 21 companies
+01:31 [Information] LAPTOP-LHB6GJU4 (17) HTTP "GET" "/api/v1/user" responded 200 in 82.0706 ms
+01:31 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/company" responded 200 in 85.1112 ms
+01:31 [Information] LAPTOP-LHB6GJU4 (17) HTTP "GET" "/api/v1/user" responded 401 in 4.8273 ms
+01:34 [Warning] LAPTOP-LHB6GJU4 (7) Failed to determine the https port for redirect.
+01:34 [Warning] LAPTOP-LHB6GJU4 (16) Failed to determine the https port for redirect.
+01:34 [Information] LAPTOP-LHB6GJU4 (7) HTTP "POST" "/api/v1/auth/login" responded 200 in 518.1205 ms
+01:34 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/auth/login" responded 200 in 518.1163 ms
+01:34 [Information] LAPTOP-LHB6GJU4 (7) Fetching all companies
+01:34 [Information] LAPTOP-LHB6GJU4 (7) List of 1 users has been returned
+01:34 [Information] LAPTOP-LHB6GJU4 (16) Returned 21 companies
+01:34 [Information] LAPTOP-LHB6GJU4 (7) HTTP "GET" "/api/v1/user" responded 200 in 93.9279 ms
+01:34 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/company" responded 200 in 97.8420 ms
+01:34 [Information] LAPTOP-LHB6GJU4 (30) HTTP "GET" "/api/v1/user" responded 401 in 5.9309 ms
+01:40 [Warning] LAPTOP-LHB6GJU4 (14) Failed to determine the https port for redirect.
+01:40 [Warning] LAPTOP-LHB6GJU4 (10) Failed to determine the https port for redirect.
+01:40 [Information] LAPTOP-LHB6GJU4 (10) HTTP "POST" "/api/v1/auth/login" responded 200 in 765.0961 ms
+01:40 [Information] LAPTOP-LHB6GJU4 (14) HTTP "POST" "/api/v1/auth/login" responded 200 in 765.0839 ms
+01:40 [Information] LAPTOP-LHB6GJU4 (10) Fetching all companies
+01:40 [Information] LAPTOP-LHB6GJU4 (10) List of 1 users has been returned
+01:40 [Information] LAPTOP-LHB6GJU4 (14) Returned 21 companies
+01:40 [Information] LAPTOP-LHB6GJU4 (10) HTTP "GET" "/api/v1/user" responded 200 in 116.9213 ms
+01:40 [Information] LAPTOP-LHB6GJU4 (14) HTTP "GET" "/api/v1/company" responded 200 in 118.7443 ms
+01:40 [Information] LAPTOP-LHB6GJU4 (10) HTTP "GET" "/api/v1/user" responded 401 in 7.2120 ms
+17:40 [Warning] LAPTOP-LHB6GJU4 (15) Failed to determine the https port for redirect.
+17:40 [Warning] LAPTOP-LHB6GJU4 (10) Failed to determine the https port for redirect.
+17:40 [Information] LAPTOP-LHB6GJU4 (17) HTTP "POST" "/api/v1/auth/login" responded 200 in 646.9166 ms
+17:40 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/auth/login" responded 200 in 646.9163 ms
+17:40 [Information] LAPTOP-LHB6GJU4 (17) Fetching all companies
+17:40 [Information] LAPTOP-LHB6GJU4 (17) List of 1 users has been returned
+17:40 [Information] LAPTOP-LHB6GJU4 (16) Returned 17 companies
+17:40 [Information] LAPTOP-LHB6GJU4 (17) HTTP "GET" "/api/v1/user" responded 200 in 99.9538 ms
+17:40 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/company" responded 200 in 101.6163 ms
+17:40 [Information] LAPTOP-LHB6GJU4 (14) HTTP "GET" "/api/v1/user" responded 401 in 4.0185 ms
+17:44 [Warning] LAPTOP-LHB6GJU4 (17) Failed to determine the https port for redirect.
+17:44 [Warning] LAPTOP-LHB6GJU4 (15) Failed to determine the https port for redirect.
+17:44 [Information] LAPTOP-LHB6GJU4 (9) HTTP "POST" "/api/v1/auth/login" responded 200 in 511.4307 ms
+17:44 [Information] LAPTOP-LHB6GJU4 (16) HTTP "POST" "/api/v1/auth/login" responded 200 in 511.4364 ms
+17:44 [Information] LAPTOP-LHB6GJU4 (16) Fetching all companies
+17:44 [Information] LAPTOP-LHB6GJU4 (16) List of 1 users has been returned
+17:44 [Information] LAPTOP-LHB6GJU4 (9) Returned 18 companies
+17:44 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/user" responded 200 in 116.4201 ms
+17:44 [Information] LAPTOP-LHB6GJU4 (9) HTTP "GET" "/api/v1/company" responded 200 in 121.0240 ms
+17:44 [Information] LAPTOP-LHB6GJU4 (16) HTTP "GET" "/api/v1/user" responded 401 in 7.5032 ms

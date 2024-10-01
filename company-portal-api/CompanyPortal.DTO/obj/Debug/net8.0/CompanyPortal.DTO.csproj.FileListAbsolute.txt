@@ -1,0 +1,11 @@
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\bin\Debug\net8.0\CompanyPortal.DTO.deps.json
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\bin\Debug\net8.0\CompanyPortal.DTO.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\bin\Debug\net8.0\CompanyPortal.DTO.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.AssemblyInfoInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.AssemblyInfo.cs
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\refint\CompanyPortal.DTO.dll
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\CompanyPortal.DTO.pdb
+C:\Users\ashiq\source\repos\CompanyPortal\CompanyPortal.DTO\obj\Debug\net8.0\ref\CompanyPortal.DTO.dll
