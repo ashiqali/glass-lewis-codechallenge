@@ -15,6 +15,7 @@ This project provides a RESTful Web API for managing company records. The API al
 - [Versioning](#versioning)
 - [Logging](#logging)
 - [Project Structure](#project-structure)
+- [Screenshots](#screenshots)
 
 
 ## Technologies Used
@@ -92,8 +93,10 @@ apply database migrations to create the tables. From a command line :
     cd CompanyPortal.DAL
     update-database
 ```
-
-
+Also, I have attached the script file inside the root folder
+```sh 
+ cd glass-lewis-codechallenge/DBScript.sql 
+```
 
 ## Running the Application
 
@@ -301,4 +304,20 @@ COMPANY-PORTAL-APP
 └── tsconfig.json
 
 ```
+
+## Screenshots
+![Screenshot-1](https://github.com/user-attachments/assets/4235cb5a-f9cf-4744-8267-d58e93725aba)
+
+![Screenshot-2](https://github.com/user-attachments/assets/6a250320-b156-4b8b-9891-17e4e42ec4d9)
+
+![Screenshot-3](https://github.com/user-attachments/assets/59cfd07f-137b-4a7d-bc16-318aaeebae9c)
+
+![Screenshot-4](https://github.com/user-attachments/assets/6d1df437-968c-4c71-ae12-9d2c8425834e)
+
+![Screenshot-5](https://github.com/user-attachments/assets/e13ae6fb-d917-48e9-8d0e-01a181fcda9d)
+
+
+
+
 ---
+
