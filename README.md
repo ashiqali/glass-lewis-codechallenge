@@ -93,7 +93,7 @@ apply database migrations to create the tables. From a command line :
     cd CompanyPortal.DAL
     update-database
 ```
-Also, I have attached the script file inside the root folder
+Also, I have attached the script file inside the root folder. If restore db migration fails you can the use the this script to setup the database.
 ```sh 
  cd glass-lewis-codechallenge/DBScript.sql 
 ```
