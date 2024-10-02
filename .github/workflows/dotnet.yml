@@ -21,16 +21,16 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: List directory contents
-      run: ls -la company-portal-api.Api
+      run: ls -la CompanyPortal.API
 
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: company-portal-api.Api
+      working-directory: CompanyPortal.API
 
     - name: Build
       run: dotnet build --no-restore
-      working-directory: company-portal-api.Api
+      working-directory: CompanyPortal.API
 
     - name: Test
       run: dotnet test --no-build --verbosity normal
-      working-directory: company-portal-api.Api
+      working-directory: cCompanyPortal.API
